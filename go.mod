@@ -1,4 +1,4 @@
-module github.com/recursve/redisstore/v8
+module github.com/recursyve/redisstore/v8
 
 go 1.12
 
